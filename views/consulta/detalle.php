@@ -1,4 +1,6 @@
 <?php require 'views/header.php' ?>
+
+<div class="contenedor-seccion">
     <div id="main">
         <h1 class="center">Editar Usuario</h1>
         <div class="center"><?php echo $this->mensaje; ?></div>
@@ -19,7 +21,6 @@
                 <input type="submit" value="Registrar">
             </p>
         </form>
-
-
     </div>
+</div>
 <?php require 'views/footer.php'?>

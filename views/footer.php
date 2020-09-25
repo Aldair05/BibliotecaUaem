@@ -3,20 +3,22 @@
         <div class="row">
             <div class="col-md-4 ">
                 <h4>Contacto</h4>
-                <ul class="listas">
-                    <li>
-                    <i class="fa fa-map-marker" aria-hidden="true"></i>
-                        <span>Av Hermenegildo Galeana 3, Maria Isabel, 
-                              56615 Valle de Chalco Solidaridad, Méx.</span> 
-                    </li>
-                    <br>    
-                    <li>
-                    <i class="fa fa-phone" aria-hidden="true"></i>
-                        <span>01 (55) 5971 4940</span> 
-                    </li>
-                </ul>
-                <div class="copy">
-                    © Aldair Ramirez 2020
+                <div class ="caja-contacto">
+                    <ul class="listas">
+                        <li>
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            <span>Av Hermenegildo Galeana 3, Maria Isabel, 
+                                  56615 Valle de Chalco Solidaridad, Méx.</span> 
+                        </li>
+                        <br>    
+                        <li>
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                            <span>01 (55) 5971 4940</span> 
+                        </li>
+                    </ul>
+                    <div class="copy">
+                        © Aldair Ramirez 2020
+                    </div>
                 </div>
             </div>
             <div class="col-md-4">

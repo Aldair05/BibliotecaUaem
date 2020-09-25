@@ -4,7 +4,7 @@
 
         function __construct(){
             parent::__construct();
-            $this->view->mensaje = "Este es el apartado de Contacto";
+            $this->view->mensaje = "Contactanos";
             
         }
 
